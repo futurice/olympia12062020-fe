@@ -16,6 +16,6 @@
   "author": "Netlify",
   "license": "MIT",
   "dependencies": {
-    "nodemailer": "^6.4.5"
+    "nodemailer": "^6.4.16"
   }
 }
